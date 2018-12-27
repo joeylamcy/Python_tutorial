@@ -7,27 +7,37 @@ Anaconda is a popular platform to Python (and R) data science. It comes with sev
 *NOTE: To prevent permission errors, do not launch the installer from the Favorites folder.*
 
 *NOTE: If you encounter issues during installation, temporarily disable your anti-virus software during install, then re-enable it after the installation concludes. If you installed for all users, uninstall Anaconda and re-install it for your user only and try again.*
-
-![Anaconda_install_Windows](./images/Anaconda_Windows.png)
+<p align="center">
+  <img src="./images/Anaconda_Windows.png" height="400px"/>
+</p>
 
 #### You can continue with the default options. The installation takes around 10 minutes.
+<p align="center">
+  <img src="./images/Anaconda_install-win-destination.png" height="400px"/>
+</p>
 
-![install_location](./images/Anaconda_install-win-destination.png)
+<p align="center">
+  <img src="./images/Anaconda_install-win-path.png" height="400px"/>
+</p>
 
-![install_location](./images/Anaconda_install-win-path.png)
 
 #### No need to install Microsoft Visual Studio at the end. We won't use it in this lab.
-
-![No_VS_mac](./images/No_VS_Windows.png)
+<p align="center">
+  <img src="./images/No_VS_Windows.png" height="400px"/>
+</p>
 
 #### A successful installation displays the following screen:
-
-![Success](./images/Anaconda_install_success_Windows.png)
+<p align="center">
+  <img src="./images/Anaconda_install_success_Windows.png" height="400px"/>
+</p>
 
 #### Now use the conda command prompt to verify installation and find the path of the required stuffs.
-
-![Windows_cmd](./images/Start_menu_Windows.png)
-![Windows_cmd2](./images/conda_cmd_Windows.png)
+<p align="center">
+  <img src="./images/Start_menu_Windows.png" height="400px"/>
+</p>
+<p align="center">
+  <img src="./images/conda_cmd_Windows.png" height="400px"/>
+</p>
 
 #### Type/copy the following commands into the terminal:
 
