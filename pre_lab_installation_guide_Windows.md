@@ -1,4 +1,4 @@
-# How to install Anaconda on Mac?
+# How to install Anaconda on Windows?
 
 #### Go to https://www.anaconda.com/download/#windows and download Python 3.7 version.
 
@@ -11,11 +11,12 @@ Anaconda is a popular platform to Python (and R) data science. It comes with sev
   <img src="./images/Anaconda_Windows.png" height="400px"/>
 </p>
 
-#### You can continue with the default options. The installation takes around 10 minutes. Choose the location to install Anaconda. Copy the path and save it. 
+#### Choose the location to install Anaconda. Copy the path and save it. 
 <p align="center">
   <img src="./images/Anaconda_install-win-destination.png" height="400px"/>
 </p>
 
+#### You can continue with the default options. The installation takes around 10 minutes. 
 <p align="center">
   <img src="./images/Anaconda_install-win-path.png" height="400px"/>
 </p>
