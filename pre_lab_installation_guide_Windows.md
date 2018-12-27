@@ -40,7 +40,7 @@ Windows 10 and Windows 8
 1. Click **New** and paste your **saved path** *your_path*\Anaconda and another path *your_path*\Anaconda\Scripts.
 
 <p align="center">
-  <img src="./images/env_vars_Windows.png" height="400px"/>
+  <img src="./images/Env_vars_Windows.png" height="400px"/>
 </p>
 
 Windows 7
