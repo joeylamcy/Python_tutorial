@@ -26,10 +26,7 @@ Anaconda is a popular platform to Python (and R) data science. It comes with sev
 #### Type/copy the following commands into the terminal (and press Enter):
 
 ```bash
-which python
-which conda
-which jupyter
-which spyder
+which python conda jupyter spyder
 ```
 
 #### You should see a path for each of them, e.g.
