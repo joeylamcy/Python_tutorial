@@ -1,6 +1,6 @@
 # How to install Anaconda on Windows?
 
-#### Go to https://www.anaconda.com/download/#windows and download Python 3.7 version.
+#### Go to https://www.anaconda.com/download/#windows and download Python 3.7 version. (The whole process takes around 20 minutes.)
 
 Anaconda is a popular platform to Python (and R) data science. It comes with several IDEs (Integrated Development Environments, such as Jupyter and Spyder) and a package manager (conda) to allow user-friendly coding with Python.
 
@@ -61,3 +61,9 @@ Windows 7
 ```
 where python conda jupyter spyder
 ```
+As mentioned, `python` is the programming language and `conda` is the package manager. Here, `jupyter` and `spyder` are two IDEs that we will use.
+
+#### You should see a path for each of them, e.g.
+<p align="center">
+  <img src="./images/Paths_Windows.png" height="400px"/>
+</p>
