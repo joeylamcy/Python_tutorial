@@ -8,7 +8,9 @@ Anaconda is a popular platform to Python (and R) data science. It comes with sev
 
 #### You can continue with the default options. The installation takes around 10 minutes. No need to install Microsoft Visual Studio at the end. We won't use it in this lab.
 
-![No_VS_mac](./images/No_VS_mac.png)
+<p align="center">
+  <img src="./images/No_VS_mac.png" height="300px"/>
+  </p>
 
 #### A successful installation displays the following screen:
 
