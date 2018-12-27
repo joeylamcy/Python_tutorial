@@ -28,6 +28,7 @@ Anaconda is a popular platform to Python (and R) data science. It comes with sev
 ```bash
 which python conda jupyter spyder
 ```
+As mentioned, `python` is the programming language and `conda` is the package manager. Here, `jupyter` and `spyder` are two IDEs that we will use.
 
 #### You should see a path for each of them, e.g.
 <p align="center">
