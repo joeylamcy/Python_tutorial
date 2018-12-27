@@ -34,18 +34,18 @@ Anaconda is a popular platform to Python (and R) data science. It comes with sev
 
 #### Remember you have saved a path? Now we need to tell Windows where to find conda.
 Windows 10 and Windows 8
-1. In Search, search for and then select: System (Control Panel)
-1. Click the Advanced system settings link.
-1. Click Environment Variables. 
-1. In the section System Variables, find the PATH environment variable and select it. Click Edit.
+1. In **Search**, search for and then select: **System (Control Panel)**
+1. Click the **Advanced system settings** link.
+1. Click **Environment Variables**. 
+1. In the section **System Variables**, find the **PATH** environment variable and select it. Click **Edit**.
 1. Paste your saved path.
 
 Windows 7
 1. From the desktop, right click the Computer icon.
-1. Choose Properties from the context menu.
-1. Click the Advanced system settings link.
-1. Click Environment Variables. 
-1. In the section System Variables, find the PATH environment variable and select it. Click Edit.
+1. Choose **Properties** from the context menu.
+1. Click the **Advanced system settings** link.
+1. Click **Environment Variables**. 
+1. In the section **System Variables**, find the **PATH** environment variable and select it. Click **Edit**.
 1. Paste your saved path.
 
 #### Now use the conda command prompt to verify installation and check the path of the required stuffs.
@@ -59,8 +59,5 @@ Windows 7
 #### Type/copy the following commands into the conda command prompt:
 
 ```
-where python
-where conda
-where jupyter
-where spyder
+where python conda jupyter spyder
 ```
