@@ -11,7 +11,7 @@ Anaconda is a popular platform to Python (and R) data science. It comes with sev
   <img src="./images/Anaconda_Windows.png" height="400px"/>
 </p>
 
-#### You can continue with the default options. The installation takes around 10 minutes.
+#### You can continue with the default options. The installation takes around 10 minutes. Choose the location to install Anaconda. Copy the path and save it. 
 <p align="center">
   <img src="./images/Anaconda_install-win-destination.png" height="400px"/>
 </p>
@@ -31,7 +31,23 @@ Anaconda is a popular platform to Python (and R) data science. It comes with sev
   <img src="./images/Anaconda_install_success_Windows.png" height="400px"/>
 </p>
 
-#### Now use the conda command prompt to verify installation and find the path of the required stuffs.
+#### Remember you have saved a path? Now we need to tell Windows where to find conda.
+Windows 10 and Windows 8
+1. In Search, search for and then select: System (Control Panel)
+1. Click the Advanced system settings link.
+1. Click Environment Variables. 
+1. In the section System Variables, find the PATH environment variable and select it. Click Edit.
+1. Paste your saved path.
+
+Windows 7
+1. From the desktop, right click the Computer icon.
+1. Choose Properties from the context menu.
+1. Click the Advanced system settings link.
+1. Click Environment Variables. 
+1. In the section System Variables, find the PATH environment variable and select it. Click Edit.
+1. Paste your saved path.
+
+#### Now use the conda command prompt to verify installation and check the path of the required stuffs.
 <p align="center">
   <img src="./images/Start_menu_Windows.png" height="400px"/>
 </p>
