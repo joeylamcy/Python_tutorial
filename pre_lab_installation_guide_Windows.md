@@ -39,7 +39,7 @@ Anaconda is a popular platform to Python (and R) data science. It comes with sev
   <img src="./images/conda_cmd_Windows.png" height="400px"/>
 </p>
 
-#### Type/copy the following commands into the terminal:
+#### Type/copy the following commands into the conda command prompt:
 
 ```
 where python
