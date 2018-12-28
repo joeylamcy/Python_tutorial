@@ -1,6 +1,6 @@
 # How to install Anaconda on Mac?
 
-#### Go to https://www.anaconda.com/download/#macos and download Python 3.7 version.
+#### Go to https://www.anaconda.com/download/#macos and download Python 3.7 version. (The whole process takes around 20 minutes.)
 
 Anaconda is a popular platform to Python (and R) data science. It comes with several IDEs (Integrated Development Environments, such as Jupyter and Spyder) and a package manager (conda) to allow user-friendly coding with Python.
 <p align="center">
