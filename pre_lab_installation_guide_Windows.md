@@ -32,7 +32,7 @@ Anaconda is a popular platform to *Python* (and *R*) data science. It comes with
   <img src="./images/Anaconda_install_success_Windows.png" height="400px"/>
 </p>
 
-#### Remember you have saved a path? Now we need to tell Windows where to find `conda`.
+#### Remember you have saved a path? Now you need to tell Windows where to find *Anaconda*.
 Windows 10 and Windows 8
 1. In **Search**, search for and then select: **Edit the system environment variables**
 1. Click **Environment Variables**. 
