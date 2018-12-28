@@ -1,5 +1,5 @@
 
-# Python Basics
+# Python Introduction
 
 #### Objective: You want to tell the computer to do something. It can be as simple as adding two numbers, but also as complicated as plotting, making a video, doing an operation a million times, etc.
 
