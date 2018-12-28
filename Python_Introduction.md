@@ -1,7 +1,7 @@
 
 # Python Basics
 
-Objective: You want to tell the computer to do something. It can be as simple as adding two numbers, but also as complicated as plotting, making a video, doing an operation a million times, etc.
+#### Objective: You want to tell the computer to do something. It can be as simple as adding two numbers, but also as complicated as plotting, making a video, doing an operation a million times, etc.
 
 With a programming *language* like Python, you can *communicate* with the computer relatively easily (compared to using only 1 and 0).
 
@@ -22,19 +22,27 @@ If you just want to do some quick testing or very simple operations, you may jus
 
 #### Command-line mode
 By typing `python` in terminal (for Mac)/Anaconda prompt (for Windows), you will enter the default python command-line interface (CLI):
+
 ![Python-CLI](./images/cli_python.png)
+
 Alternatively, type `ipython` in terminal (for Mac)/Anaconda prompt (for Windows), you will enter an interactive python CLI: (which enables auto-complete, colored syntax, etc. capabilities)
+
 ![IPython-CLI](./images/cli_ipython.png)
 
 #### Script mode
 In the following example, I wrote a short script on the left, and run it using the `ipython` CLI.
+
 ![IPython-script](./images/sample_script.png)
 
 #### Mixed mode
 As mentioned, good IDEs should have both modes. One example is *Spyder*. You can type `spyder` in terminal (for Mac)/Anaconda prompt (for Windows) to open it. 
+
 ![Spyder-script](./images/Spyder_sample.png)
 
 Another example is *Jupyter*. You can type `jupyter notebook` in terminal (for Mac)/Anaconda prompt (for Windows) to open it.
+
+*Note: To close jupyter, close the web browsers and press `Ctrl+C` twice in terminal (for Mac)/Anaconda prompt (for Windows).*
+
 ![Open-jupyter](./images/open_Jupyter.png)
 
 ![Jupyter-script](./images/Jupyter_sample.png)
