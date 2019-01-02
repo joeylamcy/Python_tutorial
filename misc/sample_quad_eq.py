@@ -1,4 +1,4 @@
-# Solve the quadratic equation ax**2 + bx + c = 0
+# Objective: Solve the quadratic equation ax**2 + bx + c = 0
 
 # import library
 import numpy as np

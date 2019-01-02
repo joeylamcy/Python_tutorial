@@ -41,7 +41,7 @@ As mentioned, good IDEs should have both modes. One example is *Spyder*. You can
 
 A more CLI-like example is *Jupyter*. You can type `jupyter notebook` in terminal (for Mac)/Anaconda prompt (for Windows) to open it.
 
-*Note: To close jupyter, close the web browsers and press `Ctrl+C` twice in terminal (for Mac)/Anaconda prompt (for Windows).*
+*Note: To close Jupyter, close the web browsers and press `Ctrl+C` twice in terminal (for Mac)/Anaconda prompt (for Windows).*
 
 ![Open-jupyter](./images/open_Jupyter.png)
 
