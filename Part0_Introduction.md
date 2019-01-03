@@ -46,3 +46,6 @@ A more CLI-like example is *Jupyter*. You can type `jupyter notebook` in termina
 ![Open-jupyter](./images/open_Jupyter.png)
 
 ![Jupyter-script](./images/Jupyter_sample.png)
+
+
+Next part: [Basic Syntax and statements](./Part1_Basic_Syntax.ipynb)

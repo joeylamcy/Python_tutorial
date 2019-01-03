@@ -66,3 +66,6 @@ As mentioned, `python` is the programming language and `conda` is the package ma
 <p align="center">
   <img src="./images/Paths_Windows.png" height="400px"/>
 </p>
+
+
+Next part: [Python Introduction](./Part0_Introduction.md)

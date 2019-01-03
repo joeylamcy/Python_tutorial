@@ -7,6 +7,10 @@ Before the lab session, please follow the guidelines to **install Anaconda** on 
 Install Anaconda on [Mac](./pre_lab_installation_guide_mac.md)/[Windows](./pre_lab_installation_guide_Windows.md) 
 
 In the first session, I will cover the following contents:
-- [Introduction to Python](./Python_Introduction.md)
-- [Basic Syntax and concepts](./Python_Lab1_Syntax.ipynb)
-- [Writing a python script](./Python_Lab1_Writing_Script.ipynb)
+- [Introduction to Python](./Part0_Introduction.md)
+- [Basic Syntax and concepts](./Part1_Basic_Syntax.ipynb)
+- [Writing a python script](./Part2_Writing_Script.ipynb)
+- [Flow control statements](./Part3_Flow_Control.ipynb)
+- [Concepts of Object-Oriented Programming](./Part4_OOP.md)
+- [File I/O](./Part5_file_io.ipynb)
+- [Plotting](./Part6_plotting.ipynb)
