@@ -1,13 +1,13 @@
 # How to install Anaconda on Mac?
 
-#### Go to https://www.anaconda.com/download/#macos and download Python 3.7 version. (The whole process takes around 20 minutes.)
+#### Go to https://www.anaconda.com/download/#macos and download Python 3.7 version. (The whole process takes around 30 minutes.)
 
 Anaconda is a popular platform to *Python* (and *R*) data science. It comes with several IDEs (Integrated Development Environments, such as *Jupyter* and *Spyder*) and a package manager `conda` to allow user-friendly coding with *Python*.
 <p align="center">
   <img src="./images/Anaconda_mac.png" height="400px"/>
 </p>
 
-#### You can continue with the default options. The installation takes around 10 minutes. No need to install *Microsoft Visual Studio* at the end. We won't use it in this lab.
+#### You can continue with the default options. The installation takes around 20 minutes. No need to install *Microsoft Visual Studio* at the end. We won't use it in this lab.
 <p align="center">
   <img src="./images/No_VS_mac.png" height="400px"/>
 </p>
