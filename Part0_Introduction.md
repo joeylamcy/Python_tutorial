@@ -1,7 +1,7 @@
 
 # Python Introduction
 
-#### Objective: You want to tell the computer to do something. It can be as simple as adding two numbers, but also as complicated as plotting, making a video, doing an operation a million times, etc.
+**Objective: You want to tell the computer to do something. It can be as simple as adding two numbers, but also as complicated as plotting, making a video, doing an operation a million times, etc.**
 
 With a programming *language* like Python, you can *communicate* with the computer relatively easily (compared to using only 1 and 0).
 
@@ -47,5 +47,9 @@ A more CLI-like example is *Jupyter*. You can type `jupyter notebook` in termina
 
 ![Jupyter-script](./images/Jupyter_sample.png)
 
+### Some Tips on Programming
+1. **Ask Google** whenever you have questions. Most likely someone has already asked similar questions (usually on Stack Overflow). I think it's more important to **learn the relevant terminology and concepts**, in order to ask your question accurately. 
+1. There is no standard answer in programming world. Don't hesitate to test your own thoughts. Experience is valuable.
+1. (For beginners) It's really normal to have errors when you first start writing codes. Instead of trying to prevent errors, learn to read and understand them.  
 
 Next part: [Basic Syntax and statements](./Part1_Basic_Syntax.ipynb)
