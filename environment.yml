@@ -1,0 +1,15 @@
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python=3.7    # Python version 3.7
+    - cython        # Python <-> C interfacing
+    - cartopy       # Geographic plotting toolkit
+    - jupyter       # Jupyter federation architecture
+    - jupyterlab    # next-generation Jupyter
+    - matplotlib    # 2D plotting library
+    - netcdf4       # netcdf4 Python API, backend for xarray
+    - scipy         # Common math/stats/science functions
+    - scikit-learn  # Machine learning library
+    - seaborn       # Statistical visualizations
+    - xarray        # the major tool to work with NetCDF data
