@@ -1,5 +1,9 @@
 #python:
 __pycache__
 .ipynb_checkpoints
+
 #OS:
 .DS_Store
+
+#Specific files:
+new_temp.nc
