@@ -1,4 +1,5 @@
-# Lab exercise (9 Jan 2019)
+# Lab exercises 
+### 1st lab session (9 Jan 2019)
 
 Please submit the following exercise:
 1. List and Dictionaries
