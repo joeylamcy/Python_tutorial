@@ -35,5 +35,27 @@ As mentioned, `python` is the programming language and `conda` is the package ma
   <img src="./images/Paths_mac.png" height="400px"/>
 </p>
 
+## Install conda environment for extra packages
+We will need some extra packages later when we deal with atmospheric data. Follow the guide below to install them into a "conda environment".
+
+Download [environment.txt](https://raw.githubusercontent.com/joeylamcy/Python_tutorial/master/environment.txt) and save it on Desktop. Execute the following command in the *terminal*: 
+```bash
+conda env create -vv -n earth -f ~/Desktop/environment.txt
+```
+*Note: Feel free to change earth to other names.*
+
+This will automatically install the relevant packages that you will need in this part and next part. This takes around 5 minutes. Make sure you have **internet connection** while you do this. 
+
+Successful installation gives the following (or something similar):
+```
+#
+# To activate this environment, use
+#
+#     $ conda activate earth
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+```
 
 Next part: [Python Introduction](./Part0_Introduction.md)
