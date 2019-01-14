@@ -12,5 +12,6 @@ In the first session, I will cover the following contents:
 - [Writing a Python script](./Part2_Writing_Script.ipynb)
 - [Flow control statements](./Part3_Flow_Control.ipynb)
 - [Concepts of Object-Oriented Programming](./Part4_OOP.ipynb)
-- [File I/O](./Part5_file_io.ipynb)
-- [Plotting](./Part6_plotting.ipynb)
+- [Plotting](./Part5_plotting.ipynb)
+- [File I/O](./Part6_file_io.ipynb)
+
