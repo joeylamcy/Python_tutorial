@@ -6,7 +6,7 @@ __pycache__
 .DS_Store
 
 #Specific files:
-new_temp.nc
+data*.nc
 Part1_Basic_Syntax.py
 Example.ipynb
 sample_plot.png
