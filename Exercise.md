@@ -47,3 +47,16 @@ You are not required to submit today's exercises.
    Construct a while loop to divide a number of your choice, e.g. 1.4, by 2 by many times until it becomes smaller than 0.00001.
    
    Note: this is part of the bisection method, which is a simple numerical method of solving an equation.
+
+### 3rd lab session (16 Jan 2019)
+
+Please submit the following exercise:
+
+1. NetCDF file handling and Plotting on a map
+
+   Using the sample_data.nc, plot a map of 500hPa daily average **potential temperature** on 11 June 2017. You may want to reuse part of the function you have written in exercise 1 of [2nd lab session](./Exercise.md#2nd-lab-session-14-jan-2019). Make sure you take care of the units correctly. Also make sure you include a title and axis titles with units in your plot and save it as png file.
+   
+   You are required to submit your answers in .py or .ipynb format, and also your plot in .png format.
+   
+   
+   
