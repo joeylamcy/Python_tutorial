@@ -7,6 +7,7 @@ dependencies:
     - cartopy       # Geographic plotting toolkit
     - jupyter       # Jupyter federation architecture
     - jupyterlab    # next-generation Jupyter
+    - spyder        # Spyder IDE
     - matplotlib    # 2D plotting library
     - netcdf4       # netcdf4 Python API, backend for xarray
     - scipy         # Common math/stats/science functions
