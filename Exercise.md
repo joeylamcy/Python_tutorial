@@ -5,7 +5,7 @@ Please submit the following exercise:
 
 1. List and Dictionaries
 
-   Put your name and year of study in a **list**. Use the `print()` function to print `My name is ` followed by your name and a full stop `.`. On the next line, print `I am a year ` followed by your year of study, and ` student.`. 
+   Put your name and year of study in a **list**. Use the `print()` function to print `My name is ` followed by your name and a full stop `.`. On the same line, print `I am a year ` followed by your year of study, and ` student.`. 
 
    Sample output:
    ``` 
