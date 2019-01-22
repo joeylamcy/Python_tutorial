@@ -58,5 +58,30 @@ Please submit the following exercise:
    
    You are required to submit your answers in .py or .ipynb format, and also your plot in .png format.
    
+### 4th lab session (23 Jan 2019)
+
+Please submit the following exercise:
+
+1. Hadley cell
+
+   Plot the meridional mass streamfunction **for each month** using the given climatology monthly mean v-wind. The y-axis should be pressure level and x-axis should be latitude.
    
+   By taking average over different months, **also** plot the climatology **annual mean** meridional mass streamfunction. 
+   
+   Make sure you include a title, axis titles and a color bar (if applicable) in your plot and save it as png file.
+   
+   You are required to submit your answers in .py or .ipynb format, and also your plots (13 plots in total) in .png format.
+   
+   Hint: 
+   - The formula of integration is ![mass streamfunction](./images/mass_streamfunction.png)
+   - You may want to use `xr.concat()` (in *xarray* library) to add a reference v-wind at pressure level *p=0*. This allows the data to be integrated from 0 to a specific pressure level.
+   - `simps()` in the library `scipy.integrate` is helpful in doing integration using data samples.
+   - You may invert the y-axis by 
+     ```
+     ax = plt.gca()
+     ax.invert_yaxis()
+     ```
+   - Let me know if you have any specific idea on how the plot should look! Perhaps I can help.
+   
+
    
