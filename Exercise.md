@@ -78,7 +78,7 @@ Please submit the following exercise:
      ![mass streamfunction](./images/mass_streamfunction.png)
    
    - You may want to use `xr.concat()` (in *xarray* library) to add a reference v-wind at pressure level *p=0*. This allows the data to be integrated from 0 to a specific pressure level.
-   - `simps()` in the library `scipy.integrate` is helpful in doing integration using data samples.
+   - `cumtrapz()` in the library `scipy.integrate` is helpful in doing *cumulative* integration using data samples.
    - You may invert the y-axis by using larger values for *ymin* and smaller values for *ymax*:
      ```
      plt.axis([xmin,xmax,ymin,ymax])
