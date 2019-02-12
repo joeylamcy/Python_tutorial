@@ -10,9 +10,9 @@ Please submit the following exercise:
 1. Monsoon onset
    Estimate the monsoon onset date for Kerala (10.9°N, 76.3°E) based on your plot. Briefly describe how you determine the onset date.
 
-   Make sure you include a title, axis titles and a color bar (if applicable) in your plot and save it as png file.
+   Make sure you include a title and a color bar (if applicable) in your plot and save it as png file.
    
-   You are required to submit your answers in .py or .ipynb format, and also your plots (13 plots in total) in .png format.
+   You are required to submit your answers in .py or .ipynb format, and also your plot in .png format. 
 
 ### 4th lab session (23 Jan 2019)
 
