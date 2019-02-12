@@ -1,6 +1,6 @@
 # Lab exercises 
 
-### Week 5 lab session (13 Feb 2019) 
+### Week 6 lab session (13 Feb 2019) 
 
 Please submit the following exercise:
 
