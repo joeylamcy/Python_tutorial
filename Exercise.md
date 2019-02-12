@@ -5,9 +5,11 @@
 Please submit the following exercise:
 
 1. ITCZ migration 
+
    Plot the climatological 5-day mean precipitation rates for the Indian sector (70-95°E) as a function of latitude and time (y-axis: latitude; x-axis: time)
 
 1. Monsoon onset
+
    Estimate the monsoon onset date for Kerala (10.9°N, 76.3°E) based on your plot. Briefly describe how you determine the onset date.
 
    Make sure you include a title and a color bar (if applicable) in your plot and save it as png file.
