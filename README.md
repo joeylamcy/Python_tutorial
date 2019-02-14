@@ -17,4 +17,4 @@ In the lab sessions, I will cover the following contents:
 
 Self-learning materials:
 - [NumPy Array Handling](./Part1b_NumPy_Array.ipynb)
-- [Advanced plotting (Object-oriented approach)](./Part5b.Advanced_Plotting.ipynb) (In development)
+- [Advanced plotting (Object-oriented approach)](./Part5b_Advanced_Plotting.ipynb) (In development)
