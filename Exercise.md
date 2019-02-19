@@ -22,9 +22,9 @@ Please submit the following exercise:
 
    According to your plot, are OLR anomalies typically stronger in the eastern hemisphere? What is the dynamical reason?
    
-   Make sure you include a title and a color bar (if applicable) in your plot and save it as png file.
+Make sure you include a title and a color bar (if applicable) in your plot and save it as png file.
    
-   You are required to submit your answers in .py or .ipynb format, and also your plot in .png format. You may include the short answers to Q2 and Q3 after the codes (as comments in script or markdown cells in Jupyter notebook). 
+You are required to submit your answers in .py or .ipynb format, and also your plot in .png format. You may include the short answers to Q2 and Q3 after the codes (as comments in script or markdown cells in Jupyter notebook). 
 
 ### Week 6 lab session (13 Feb 2019) 
 
@@ -38,9 +38,9 @@ Please submit the following exercise:
 
    Estimate the monsoon onset date for Kerala (10.9°N, 76.3°E) based on your plot. Briefly describe how you determine the onset date.
 
-   Make sure you include a title and a color bar (if applicable) in your plot and save it as png file.
-   
-   You are required to submit your answers in .py or .ipynb format, and also your plot in .png format. 
+Make sure you include a title and a color bar (if applicable) in your plot and save it as png file.
+
+You are required to submit your answers in .py or .ipynb format, and also your plot in .png format. 
 
 ### 4th lab session (23 Jan 2019)
 
