@@ -1,5 +1,21 @@
 # Lab exercises 
 
+### Week 7 lab session (20 Feb 2019) 
+
+Please submit the following exercise:
+
+1. OLR anomalies associated with MJO
+
+   Plot a Hovmueller diagram of 30-80 day filtered OLR anomalies, averaged between 5°S-5°N, from July 1996 to June 1997. (y-axis: time; x-axis: longitude)
+   
+1. Implications of OLR anomalies
+
+   Should a rainfall event be associated with positive or negative OLR anomaly? Why? 
+
+1. MJO zonal asymmetry
+
+   According to your plot, are OLR anomalies typically stronger in the eastern hemisphere? What is the dynamical reason?
+
 ### Week 6 lab session (13 Feb 2019) 
 
 Please submit the following exercise:
