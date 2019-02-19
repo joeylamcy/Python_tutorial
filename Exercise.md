@@ -21,6 +21,10 @@ Please submit the following exercise:
 1. MJO zonal asymmetry
 
    According to your plot, are OLR anomalies typically stronger in the eastern hemisphere? What is the dynamical reason?
+   
+   Make sure you include a title and a color bar (if applicable) in your plot and save it as png file.
+   
+   You are required to submit your answers in .py or .ipynb format, and also your plot in .png format. You may include the short answers to Q2 and Q3 after the codes (as comments in script or markdown cells in Jupyter notebook). 
 
 ### Week 6 lab session (13 Feb 2019) 
 
