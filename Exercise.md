@@ -6,7 +6,13 @@ Please submit the following exercise:
 
 1. OLR anomalies associated with MJO
 
-   Plot a Hovmueller diagram of 30-80 day filtered OLR anomalies, averaged between 5°S-5°N, from July 1996 to June 1997. (y-axis: time; x-axis: longitude)
+   Plot a Hovmueller diagram of 30-80 day filtered OLR anomalies, averaged between 10°S-10°N, from July 1996 to June 1997. (y-axis: time; x-axis: longitude)
+   
+   Hint: You may want to separate the task into the following steps:
+   - Select a subset of latitude to reduce the size of data.
+   - Use a band-pass filter with 30-80 day "frequency" to filter the OLR signal.
+   - Take average over the latitudes
+   - Plot the diagram
    
 1. Implications of OLR anomalies
 
