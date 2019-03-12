@@ -1,5 +1,33 @@
 # Lab exercises 
 
+### Week 10 lab session (13 Mar 2019) 
+
+Please submit the following exercise:
+
+1. Southern Oscillation Index (SOI)
+
+   Construct and plot the time series of SOI from year 1876 to 2018 (inclusive), using the definition from the [Australian Bureau of Meteorology](http://www.bom.gov.au/climate/current/soi2.shtml). (x-axis: time; y-axis: SOI)
+   
+   Using the definition from the Australian Bureau of Meteorology, the SOI is defined as:
+   
+   		             [ Pdiff − Pdiffav ]
+		    SOI = 10 -------------------
+		                  SD(Pdiff)
+	
+   where:
+   
+   Pdiff   =   (average Tahiti MSLP for the month) − (average Darwin MSLP for the month),
+   
+   Pdiffav   =   long term average of Pdiff for the month in question, and
+   
+   SD(Pdiff)   =   long term standard deviation of Pdiff for the month in question. 
+   
+1. Implication of SOI
+
+   Briefly explain how the sea level pressure anomaly under a positive SOI perturb the Walker circulation and the "cold tongue". Does a persistently positive SOI represent an El Niño or La Niña episode?
+   
+   Make sure you include a title in your plot and save it as png file.
+
 ### Week 7 lab session (20 Feb 2019) 
 
 Please submit the following exercise:
