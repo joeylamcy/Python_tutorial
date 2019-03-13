@@ -22,6 +22,8 @@ Please submit the following exercise:
    
    SD(Pdiff)   =   long term standard deviation of Pdiff for the month in question. 
    
+   Also note that means and standard deviations calculated over the period 1933 to 1992 inclusive.
+   
 1. Implication of SOI
 
    Briefly explain how the sea level pressure anomaly under a positive SOI perturb the Walker circulation and the "cold tongue". Does a persistently positive SOI represent an El Niño or La Niña episode?
