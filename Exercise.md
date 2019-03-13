@@ -22,7 +22,7 @@ Please submit the following exercise:
    
    SD(Pdiff)   =   long term standard deviation of Pdiff for the month in question. 
    
-   Also note that means and standard deviations calculated over the period 1933 to 1992 inclusive.
+   Also note that means and standard deviations calculated over the period **1933 to 1992 inclusive**.
    
 1. Implication of SOI
 
