@@ -51,9 +51,9 @@ As mentioned, `python` is the programming language and `conda` is the package ma
 ## Install conda environment for extra packages
 We will need some extra packages later when we deal with atmospheric data. Follow the guide below to install them into a "conda environment".
 
-Download [environment.txt](https://raw.githubusercontent.com/joeylamcy/Python_tutorial/master/environment.txt) and save it on D:\ Drive. Execute the following command in the *Anaconda Prompt*: 
+Download [environment.yml](https://raw.githubusercontent.com/joeylamcy/Python_tutorial/master/environment.yml) and save it on D:\ Drive. Execute the following command in the *Anaconda Prompt*: 
 ```bash
-conda env create -vv -n earth -f D:\environment.txt
+conda env create -vv -n earth -f D:\environment.yml
 ```
 *Note: Feel free to change earth to other names.*
 
