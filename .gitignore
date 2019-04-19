@@ -10,3 +10,8 @@ data*.nc
 Part1_Basic_Syntax.py
 Example.ipynb
 sample_plot.png
+
+#sphinx
+_build
+_static
+_templates
