@@ -1,5 +1,61 @@
 # Lab exercises 
 
+### Week 10 lab session (13 Mar 2019) 
+
+Please submit the following exercise:
+
+1. Southern Oscillation Index (SOI)
+
+   Construct and plot the time series of SOI from year 1876 to 2018 (inclusive), using the definition from the [Australian Bureau of Meteorology](http://www.bom.gov.au/climate/current/soi2.shtml). (x-axis: time; y-axis: SOI)
+   
+   Using the definition from the Australian Bureau of Meteorology, the SOI is defined as:
+   
+   		             [ Pdiff − Pdiffav ]
+		    SOI = 10 -------------------
+		                  SD(Pdiff)
+	
+   where:
+   
+   Pdiff   =   (average Tahiti MSLP for the month) − (average Darwin MSLP for the month),
+   
+   Pdiffav   =   long term average of Pdiff for the month in question, and
+   
+   SD(Pdiff)   =   long term standard deviation of Pdiff for the month in question. 
+   
+   Also note that means and standard deviations calculated over the period **1933 to 1992 inclusive**.
+   
+1. Implication of SOI
+
+   Briefly explain how the sea level pressure anomaly under a positive SOI perturb the Walker circulation and the "cold tongue". Does a persistently positive SOI represent an El Niño or La Niña episode?
+   
+   Make sure you include a title in your plot and save it as png file.
+
+### Week 7 lab session (20 Feb 2019) 
+
+Please submit the following exercise:
+
+1. OLR anomalies associated with MJO
+
+   Plot a Hovmueller diagram of 30-80 day filtered OLR anomalies, averaged between 10°S-10°N, from July 1996 to June 1997. (y-axis: time; x-axis: longitude)
+   
+   Hint: You may want to separate the task into the following steps:
+   - Select a subset of latitude to reduce the size of data.
+   - Use a band-pass filter with 30-80 day "frequency" to filter the OLR signal.
+   - Take average over the latitudes
+   - Plot the diagram
+   
+1. Implications of OLR anomalies
+
+   Should a rainfall event be associated with positive or negative OLR anomaly? Why? 
+
+1. MJO zonal asymmetry
+
+   According to your plot, are OLR anomalies typically stronger in the eastern hemisphere? What is the dynamical reason?
+   
+Make sure you include a title and a color bar (if applicable) in your plot and save it as png file.
+   
+You are required to submit your answers in .py or .ipynb format, and also your plot in .png format. You may include the short answers to Q2 and Q3 after the codes (as comments in script or markdown cells in Jupyter notebook). 
+
 ### Week 6 lab session (13 Feb 2019) 
 
 Please submit the following exercise:
@@ -12,9 +68,9 @@ Please submit the following exercise:
 
    Estimate the monsoon onset date for Kerala (10.9°N, 76.3°E) based on your plot. Briefly describe how you determine the onset date.
 
-   Make sure you include a title and a color bar (if applicable) in your plot and save it as png file.
-   
-   You are required to submit your answers in .py or .ipynb format, and also your plot in .png format. 
+Make sure you include a title and a color bar (if applicable) in your plot and save it as png file.
+
+You are required to submit your answers in .py or .ipynb format, and also your plot in .png format. 
 
 ### 4th lab session (23 Jan 2019)
 
