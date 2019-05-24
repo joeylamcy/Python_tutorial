@@ -1,5 +1,7 @@
 # ESSC4220 Python tutorial
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joeylamcy/Python_tutorial/master)
+
 Welcome to the ESSC4220 Python tutorial!
 
 Before the lab session, please follow the guidelines to **install Anaconda** on your laptop:
